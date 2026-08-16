@@ -12,9 +12,11 @@ Der vollständige [Changelog](CHANGELOG.md) enthält alle dokumentierten Version
 
 ## Installation
 
-1. Die aktuelle ZIP-Datei unter **Releases** herunterladen.
-2. Die App entpacken und nach **Programme** verschieben.
+1. Die aktuelle DMG-Datei unter **Releases** herunterladen und öffnen.
+2. **MarkItDown Drop** auf die Verknüpfung **Programme** ziehen.
 3. Beim ersten Start kann macOS wegen der fehlenden Apple-Notarisierung eine Sicherheitsfreigabe verlangen.
+
+Alternativ steht weiterhin eine ZIP-Datei bereit. Das ZIP wird außerdem von Sparkle für automatische Updates verwendet.
 
 Ab Version 1.0.2 kann die App spätere Versionen automatisch suchen, kryptografisch prüfen und installieren.
 
