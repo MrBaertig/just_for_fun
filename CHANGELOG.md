@@ -2,6 +2,20 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.4.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.0) – 16. August 2026
+
+### Neue Startansicht und Rückkonvertierung
+
+- Drei getrennte Kacheln für „Excel → Markdown“, „Markdown → Excel“ und „Anderer Dateityp“
+- Drag-and-drop und eigene Dateiauswahl je Arbeitsablauf
+- Markdown-Tabellen als formatierte `.xlsx`-Dateien exportieren
+- Markdown-Überschriften automatisch als Tabellenblattnamen verwenden
+- Mehrere Tabellen sowie doppelte und Excel-ungültige Blattnamen sicher behandeln
+- Zahlen und Datumswerte erkennen, führende Nullen jedoch erhalten
+- Filter, fixierte Kopfzeilen, passende Spaltenbreiten und dezente Tabellenformatierung
+
+Vollständige Hinweise: [changelogs/1.4.0.md](changelogs/1.4.0.md)
+
 ## [1.3.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.3.0) – 16. August 2026
 
 ### Neuer Excel-Vorbereitungsdialog

@@ -3,6 +3,29 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Sun, 16 Aug 2026 22:04:49 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.0</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.4.0
+
+## Neue Startansicht und Rückkonvertierung
+
+- Drei klar getrennte Kacheln für „Excel → Markdown“, „Markdown → Excel“ und „Anderer Dateityp“
+- Dateien können weiterhin per Drag-and-drop oder über die Dateiauswahl geöffnet werden
+- Markdown-Tabellen werden als formatierte `.xlsx`-Datei exportiert
+- Markdown-Überschriften werden automatisch zu Excel-Tabellenblättern
+- Mehrere Tabellen, doppelte Blattnamen und Excel-ungültige Zeichen werden sicher behandelt
+- Zahlen und Datumswerte werden soweit eindeutig als passende Excel-Werte erkannt
+- Tabellen erhalten Filter, fixierte Kopfzeilen, passende Spaltenbreiten und eine dezente Formatierung
+
+Die vorhandene Excel-Aufbereitung, Einstellungen, Ersteinrichtung und Updatefunktion bleiben unverändert erhalten.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.4.0/MarkItDown-Drop-1.4.0.zip" length="1698666" type="application/octet-stream" sparkle:edSignature="RRATyjNc7Se/+MNoS3I7NH7N3+d3t0vTa70HD63sb1vSWNk/7t9ddV34gRg0P2oqH+gVlPEQRw3r3txkCfuLAA=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Sun, 16 Aug 2026 21:45:46 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.3.0</link>
