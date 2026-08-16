@@ -13,7 +13,7 @@ Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefas
 - Optional eine zusätzliche bereinigte Excel-Kopie speichern
 - Warnung bei Formeln oder externen Verknüpfungen vor dem Excel-Export
 - Originaldatei bleibt in jedem Fall unverändert
-- DMG mit App und „Programme“-Verknüpfung für die manuelle Installation ergänzt
+- DMG mit gestaltetem Installationsfenster, Pfeil und „Programme“-Verknüpfung ergänzt
 
 Die Markdown-Datei enthält dadurch nur die ausgewählten Tabellenblätter und benötigten Spalten.
 

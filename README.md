@@ -13,7 +13,7 @@ Der vollständige [Changelog](CHANGELOG.md) enthält alle dokumentierten Version
 ## Installation
 
 1. Die aktuelle DMG-Datei unter **Releases** herunterladen und öffnen.
-2. **MarkItDown Drop** auf die Verknüpfung **Programme** ziehen.
+2. Im gestalteten Installationsfenster **MarkItDown Drop** entlang des Pfeils auf **Programme** ziehen.
 3. Beim ersten Start kann macOS wegen der fehlenden Apple-Notarisierung eine Sicherheitsfreigabe verlangen.
 
 Alternativ steht weiterhin eine ZIP-Datei bereit. Das ZIP wird außerdem von Sparkle für automatische Updates verwendet.
