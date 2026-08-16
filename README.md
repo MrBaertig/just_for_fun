@@ -6,6 +6,10 @@ Aktuelle Version: **1.2.0** – [Release und Download](https://github.com/MrBaer
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
+## Versionshistorie
+
+Der vollständige [Changelog](CHANGELOG.md) enthält alle dokumentierten Versionen ab 1.0.1. Zusätzlich liegt für jede Version eine eigene Datei im Ordner [`changelogs`](changelogs).
+
 ## Installation
 
 1. Die aktuelle ZIP-Datei unter **Releases** herunterladen.
