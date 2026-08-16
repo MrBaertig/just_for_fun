@@ -2,6 +2,22 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.3.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.3.0) – 16. August 2026
+
+### Neuer Excel-Vorbereitungsdialog
+
+- Excel-ähnlicher Tabellenblattfilter mit Mehrfachauswahl
+- Abgewählte Tabellenblätter verschwinden sofort aus der Bearbeitung
+- Aufklappbare Tabellenblattbereiche für eine ruhigere Übersicht
+- Bis zu zwei Beispielwerte je Spalte
+- Sammelaktionen direkt in den Tabellenblatt-Kopfzeilen
+- Tabellenblattbereiche oben und ohne unnötigen Leerraum ausrichten
+- Live-Zusammenfassung für anonymisierte und gelöschte Spalten
+- Optionale bereinigte Excel-Kopie unter „Weitere Optionen“
+- Kompakte Aktionsleiste und korrekte Farben in heller und dunkler Darstellung
+
+Vollständige Hinweise: [changelogs/1.3.0.md](changelogs/1.3.0.md)
+
 ## [1.2.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.2.0) – 16. August 2026
 
 ### Erweiterte Excel-Aufbereitung
