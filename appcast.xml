@@ -3,6 +3,35 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 16 Aug 2026 19:45:57 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.1.0</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.1.0
+
+## Neu
+
+- Systemeinstellung, helle und dunkle Darstellung
+- Frei wählbarer Standard-Speicherort
+- Öffnen oder Anzeigen der Markdown-Datei nach der Konvertierung
+- Nachfragen, Nummerieren oder Überschreiben bei vorhandenen Dateien
+- Mehrfachauswahl und Drag-and-drop mehrerer Dateien
+- Gemeinsamer Zielordner oder einzelne Speicherabfragen bei Stapeln
+- Optionale Abschlussbenachrichtigungen
+- Installationsstatus für Python, MarkItDown und Git
+- MarkItDown direkt aus der App heraus aktualisieren
+- Eigene Python-Umgebung reparieren und neu aufbauen
+- Protokollanzeige und Zurücksetzen der Einstellungen
+
+## Updates
+
+App-Updates werden weiterhin über Sparkle geprüft und mit dem privaten EdDSA-Schlüssel des Herausgebers signiert.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.1.0/MarkItDown-Drop-1.1.0.zip" length="1617977" type="application/octet-stream" sparkle:edSignature="DT+7wUtZFRbwUDaTYUKUH0RLHMN+TUziaE0Zjr7kajziKNmFbSBUWMhKMo/GtpDZxh2BCZWfqI7t1XRcQ2EYAQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Sun, 16 Aug 2026 19:18:18 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.0.2</link>

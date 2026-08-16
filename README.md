@@ -2,6 +2,8 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
+Aktuelle Version: **1.1.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.1.0)
+
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
 ## Installation
@@ -13,4 +15,3 @@ Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden auss
 Ab Version 1.0.2 kann die App spätere Versionen automatisch suchen, kryptografisch prüfen und installieren.
 
 © 2026 Kevin Stegmiller
-
