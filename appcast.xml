@@ -3,6 +3,29 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 16 Aug 2026 19:59:50 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.1.1</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.1.1
+
+## Neu
+
+- Excel-Dateien im `.xlsx`-Format können vor der Konvertierung anonymisiert werden.
+- Tabellenblätter und erkannte Spaltenüberschriften werden direkt nach dem Einfügen angezeigt.
+- Mehrere Spalten aus mehreren Tabellenblättern lassen sich gleichzeitig auswählen.
+- Inhalte ausgewählter Spalten werden in einer temporären Kopie durch `anonym` ersetzt.
+- Die ursprüngliche Excel-Datei bleibt unverändert und die temporäre Kopie wird nach der Konvertierung gelöscht.
+
+## Technische Verbesserung
+
+- OpenPyXL wird bei Ersteinrichtung, Aktualisierung und Reparatur ausdrücklich mitinstalliert.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.1.1/MarkItDown-Drop-1.1.1.zip" length="1636317" type="application/octet-stream" sparkle:edSignature="Lou58CgNjXL8aNDL++VkKQONH3YIA82LDAwUSQyngAbeB/IWOx/Gv0+T5TIa4rgYQe/d/GWQrgptQShBbQQXBA=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 16 Aug 2026 19:45:57 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.1.0</link>
