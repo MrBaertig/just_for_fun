@@ -2,6 +2,20 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.5.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.5.0) – 17. August 2026
+
+### Kopfzeile je Tabellenblatt auswählen
+
+- Tatsächliche Kopfzeile je Tabellenblatt individuell festlegen
+- Zeilennummer und Vorschau erkannter Zellinhalte im Auswahlmenü anzeigen
+- Spaltennamen und Beispielwerte nach der Auswahl unmittelbar aktualisieren
+- Zeilen oberhalb der Kopfzeile nur in der temporären Arbeitskopie entfernen
+- Auswahl mit Anonymisieren, Löschen und Tabellenblattauswahl kombinieren
+- Nur tatsächlich belegte Zellen analysieren und aufgeblähte Excel-Bereiche schnell verarbeiten
+- Große Analyseergebnisse über temporäre Dateien übertragen und Pipe-Blockaden verhindern
+
+Vollständige Hinweise: [changelogs/1.5.0.md](changelogs/1.5.0.md)
+
 ## [1.4.1](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1) – 17. August 2026
 
 ### Reparierte Ersteinrichtung auf neuen Macs

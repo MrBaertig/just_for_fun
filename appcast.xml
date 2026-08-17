@@ -3,6 +3,32 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Mon, 17 Aug 2026 17:08:51 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.5.0</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.5.0
+
+## Kopfzeile je Tabellenblatt auswählen
+
+- Für jedes Tabellenblatt lässt sich die tatsächliche Kopfzeile individuell festlegen
+- Das Auswahlmenü zeigt die Zeilennummer und eine Vorschau der erkannten Zellinhalte
+- Die App durchsucht dafür die ersten 50 Zeilen des Tabellenblatts
+- Spaltennamen und Beispielwerte werden direkt nach der Auswahl neu aufgebaut
+- Spalten lassen sich anschließend wie gewohnt behalten, anonymisieren oder löschen
+- Zeilen oberhalb der gewählten Kopfzeile werden nur aus der temporären Arbeitskopie entfernt
+- Die ursprüngliche Excel-Datei bleibt unverändert
+- Für die Analyse werden nur tatsächlich belegte Excel-Zellen ausgewertet
+- Durch Formatierungen bis Spalte XFD aufgeblähte Arbeitsblätter werden dadurch erheblich schneller eingelesen
+- Große Analyseergebnisse werden über temporäre Dateien übertragen und können den bisherigen Pipe-Puffer nicht mehr blockieren
+
+Die Funktion eignet sich besonders für Arbeitsmappen mit Titel, Berichtszeitraum oder Hinweisen oberhalb der eigentlichen Tabelle.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.5.0/MarkItDown-Drop-1.5.0.zip" length="1709839" type="application/octet-stream" sparkle:edSignature="MD9dmvHobA7b4DTbtw7Ue+4uXYj3+FH3tidPQa/v6lyUe3RfJywHLhJKCbySvqOFYfP/k6xwvYBbZeNp6+cZDw=="/>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Mon, 17 Aug 2026 16:23:49 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1</link>

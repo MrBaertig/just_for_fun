@@ -2,21 +2,21 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.4.1** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1)
+Aktuelle Version: **1.5.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.5.0)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.4.1
+## Neu in Version 1.5.0
 
-- Python 3.13 wird für MarkItDown fest verwendet
-- Bereits angelegte inkompatible Python-3.14-Umgebungen werden automatisch ersetzt
-- Nur die von der App benötigten Datei-Erweiterungen werden installiert
-- Problematische optionale YouTube- und Azure-Abhängigkeiten entfallen
-- Homebrew-Downloads werden bei Netzwerkfehlern automatisch wiederholt
-- HTTP-429-Probleme werden verständlich erklärt und mit Alternativen versehen
-- Der Updatefeed wird als GitHub-Release-Datei ausgeliefert und umgeht den gedrosselten Raw-Endpunkt
+- Kopfzeile für jedes Tabellenblatt individuell auswählen
+- Zeilennummer und erkannte Zellinhalte direkt im Auswahlmenü sehen
+- Spaltennamen und Beispielwerte beim Wechsel sofort aktualisieren
+- Zeilen oberhalb der Kopfzeile nur in der temporären Arbeitskopie entfernen
+- Kopfzeilenauswahl mit Anonymisieren, Löschen und Tabellenblattauswahl kombinieren
+- Durch Formatierungen aufgeblähte Excel-Bereiche erheblich schneller einlesen
+- Große Analyseergebnisse ohne blockierenden Pipe-Puffer verarbeiten
 
-Vollständige Hinweise: [changelogs/1.4.1.md](changelogs/1.4.1.md)
+Vollständige Hinweise: [changelogs/1.5.0.md](changelogs/1.5.0.md)
 
 ## Versionshistorie
 
