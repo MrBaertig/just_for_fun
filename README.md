@@ -2,22 +2,18 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.6.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.0)
+Aktuelle Version: **1.6.1** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.1)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.6.0
+## Neu in Version 1.6.1
 
-- Ersteinrichtung prüft zuerst vollständig und installiert nur, was fehlt
-- Bei bereits vollständiger Installation nach etwa einer Sekunde beendet
-- Benötigte Pakete werden aus den Paketdaten von MarkItDown selbst ermittelt
-- Jeder Schritt wird als vorhanden, installiert, repariert oder übersprungen ausgewiesen
-- Prüfung läuft in der App, ein Terminalfenster öffnet sich nur für echte Installationen
-- Automatische Prüfung beim Programmstart und beim Zurückwechseln zur App
-- Bei unvollständiger Installation zeigen Hervorhebung, Abdunkelung und ein Pfeil auf die Ersteinrichtung
-- Startkacheln bleiben gesperrt, solange die Einrichtung unvollständig ist
+- Fehlerdialoge zeigen die letzten Protokollzeilen und öffnen das Protokoll auf Knopfdruck
+- Beschädigte, fehlende oder gesperrte Dateien werden verständlich gemeldet
+- Der Hinweis auf die Ersteinrichtung nennt konkret, welche Bestandteile fehlen
+- Text und Pfeil stehen kompakt über dem Knopf, statt über die Startkacheln zu verlaufen
 
-Vollständige Hinweise: [changelogs/1.6.0.md](changelogs/1.6.0.md)
+Vollständige Hinweise: [changelogs/1.6.1.md](changelogs/1.6.1.md)
 
 ## Versionshistorie
 

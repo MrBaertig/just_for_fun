@@ -3,6 +3,33 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Mon, 17 Aug 2026 22:05:31 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.1</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.6.1
+
+## Verständlichere Fehlermeldungen
+
+- Fehlerdialoge zeigen die letzten Zeilen des passenden Protokolls direkt an, statt nur auf die Datei zu verweisen
+- Ein zusätzlicher Knopf öffnet das Protokoll unmittelbar
+- Beschädigte oder falsch benannte Excel-Dateien werden verständlich gemeldet, mit dem Hinweis, ältere `.xls`-Dateien in Excel als `.xlsx` zu speichern
+- Fehlende Dateien, gesperrte Dateien und übergebene Ordner erzeugen jeweils eine klare Meldung statt eines technischen Ausdrucks
+- Bricht eine Ersteinrichtung ab, wird der Zustand danach automatisch neu geprüft
+
+## Deutlicherer Hinweis auf die Ersteinrichtung
+
+- Der Hinweis nennt jetzt konkret, welche Bestandteile fehlen
+- Text und Pfeil stehen kompakt über dem Ersteinrichtungs-Knopf, statt quer über die Startkacheln zu verlaufen
+- Der Pfeil zeigt zuverlässig auf den Knopf
+
+Diese Version enthält keine Änderungen an der Konvertierung selbst.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.6.1/MarkItDown-Drop-1.6.1.zip" length="1733433" type="application/octet-stream" sparkle:edSignature="sAe7UIqtLthV3YYZuFIm3wqdIneh8mVVqGzhuDq0aizILlUCjhL4Xo8Qv0JPxw7uR680GZNsvGWPUPmuoPseDw=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Mon, 17 Aug 2026 18:28:40 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.0</link>

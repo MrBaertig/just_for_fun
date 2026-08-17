@@ -2,6 +2,22 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.6.1](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.1) – 17. August 2026
+
+### Verständlichere Fehlermeldungen
+
+- Letzte Protokollzeilen direkt im Fehlerdialog anzeigen
+- Protokoll auf Knopfdruck aus dem Dialog heraus öffnen
+- Beschädigte oder falsch benannte Excel-Dateien verständlich melden
+- Fehlende Dateien, gesperrte Dateien und übergebene Ordner klar unterscheiden
+- Nach einer abgebrochenen Ersteinrichtung den Zustand automatisch neu prüfen
+
+### Deutlicherer Hinweis auf die Ersteinrichtung
+
+- Konkret benennen, welche Bestandteile fehlen
+- Text und Pfeil kompakt über dem Knopf statt quer über die Startkacheln führen
+- Pfeilspitze zuverlässig auf den Knopf ausrichten
+
 ## [1.6.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.0) – 17. August 2026
 
 ### Ersteinrichtung prüft zuerst und installiert nur Fehlendes
