@@ -2,20 +2,20 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.4.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.0)
+Aktuelle Version: **1.4.1** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.4.0
+## Neu in Version 1.4.1
 
-- Drei klar getrennte Startkacheln für „Excel → Markdown“, „Markdown → Excel“ und „Anderer Dateityp“
-- Markdown-Tabellen werden als formatierte `.xlsx`-Datei exportiert
-- Markdown-Überschriften werden automatisch zu Excel-Tabellenblättern
-- Mehrere Tabellen sowie doppelte oder ungültige Blattnamen werden sicher behandelt
-- Zahlen und Datumswerte werden soweit eindeutig als passende Excel-Werte erkannt
-- Tabellen erhalten Filter, fixierte Kopfzeilen und passende Spaltenbreiten
+- Python 3.13 wird für MarkItDown fest verwendet
+- Bereits angelegte inkompatible Python-3.14-Umgebungen werden automatisch ersetzt
+- Nur die von der App benötigten Datei-Erweiterungen werden installiert
+- Problematische optionale YouTube- und Azure-Abhängigkeiten entfallen
+- Homebrew-Downloads werden bei Netzwerkfehlern automatisch wiederholt
+- HTTP-429-Probleme werden verständlich erklärt und mit Alternativen versehen
 
-Vollständige Hinweise: [changelogs/1.4.0.md](changelogs/1.4.0.md)
+Vollständige Hinweise: [changelogs/1.4.1.md](changelogs/1.4.1.md)
 
 ## Versionshistorie
 

@@ -2,6 +2,20 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.4.1](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1) – 17. August 2026
+
+### Reparierte Ersteinrichtung auf neuen Macs
+
+- Python 3.13 gezielt über Homebrew installieren und für die App-Umgebung verwenden
+- Inkompatible Python-3.14-Umgebungen automatisch erkennen und ersetzen
+- MarkItDown nur mit den benötigten PDF-, Word-, PowerPoint-, Excel-, Outlook- und Audio-Erweiterungen installieren
+- Problematische optionale YouTube- und Azure-Abhängigkeiten ausschließen
+- Homebrew-Downloads bei vorübergehenden Netzwerkfehlern automatisch wiederholen
+- Bei HTTP 429 einen privaten Hotspot und den offiziellen Homebrew-PKG-Installer als Alternativen nennen
+- MarkItDown-Aktualisierung und Reparatur ebenfalls mit Python 3.13 ausführen
+
+Vollständige Hinweise: [changelogs/1.4.1.md](changelogs/1.4.1.md)
+
 ## [1.4.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.0) – 16. August 2026
 
 ### Neue Startansicht und Rückkonvertierung

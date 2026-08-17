@@ -3,6 +3,29 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Mon, 17 Aug 2026 16:23:49 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.1</link>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.4.1
+
+## Reparierte Ersteinrichtung auf neuen Macs
+
+- Python 3.13 wird gezielt über Homebrew installiert und für die App-Umgebung verwendet
+- Bereits angelegte inkompatible Python-3.14-Umgebungen werden automatisch erkannt und ersetzt
+- MarkItDown installiert nur die von der App benötigten PDF-, Word-, PowerPoint-, Excel-, Outlook- und Audio-Erweiterungen
+- Problematische optionale YouTube- und Azure-Abhängigkeiten werden nicht mehr mitinstalliert
+- Homebrew-Downloads werden bei vorübergehenden Netzwerkfehlern automatisch wiederholt
+- Bei HTTP 429 nennt die Ersteinrichtung einen privaten Hotspot und den offiziellen Homebrew-PKG-Installer als Alternativen
+- MarkItDown-Aktualisierung und Reparatur verwenden ebenfalls Python 3.13 und dieselbe stabile Erweiterungsauswahl
+
+Die bestehenden Konvertierungsfunktionen und Einstellungen bleiben unverändert.
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.4.1/MarkItDown-Drop-1.4.1.zip" length="1699660" type="application/octet-stream" sparkle:edSignature="a6JVYR5Qe+5IfQ6AxkVVojzTWjosHHfdF9WaBDr9Q4r49vUtpbbJhBxs+CLMo/fvlK9b4E5AU8ln4FOIakuHBw=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Sun, 16 Aug 2026 22:04:49 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.4.0</link>
