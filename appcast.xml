@@ -20,10 +20,11 @@
 - Homebrew-Downloads werden bei vorübergehenden Netzwerkfehlern automatisch wiederholt
 - Bei HTTP 429 nennt die Ersteinrichtung einen privaten Hotspot und den offiziellen Homebrew-PKG-Installer als Alternativen
 - MarkItDown-Aktualisierung und Reparatur verwenden ebenfalls Python 3.13 und dieselbe stabile Erweiterungsauswahl
+- Der Updatefeed wird über die GitHub-Release-Dateien ausgeliefert, um HTTP-429-Fehler des Raw-Endpunkts zu vermeiden
 
 Die bestehenden Konvertierungsfunktionen und Einstellungen bleiben unverändert.
 ]]></description>
-            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.4.1/MarkItDown-Drop-1.4.1.zip" length="1699660" type="application/octet-stream" sparkle:edSignature="a6JVYR5Qe+5IfQ6AxkVVojzTWjosHHfdF9WaBDr9Q4r49vUtpbbJhBxs+CLMo/fvlK9b4E5AU8ln4FOIakuHBw=="/>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.4.1/MarkItDown-Drop-1.4.1.zip" length="1699661" type="application/octet-stream" sparkle:edSignature="1vSx4KQiHeDbrMSjIGD/cuLcfv4XHaQpjFaNI90jHdS459yZd2zHg5P8xYG7Zqh4Q0N6ChuZtznMeWTQjTKdDA=="/>
         </item>
         <item>
             <title>1.4.0</title>

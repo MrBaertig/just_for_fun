@@ -14,6 +14,7 @@ Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden auss
 - Problematische optionale YouTube- und Azure-Abhängigkeiten entfallen
 - Homebrew-Downloads werden bei Netzwerkfehlern automatisch wiederholt
 - HTTP-429-Probleme werden verständlich erklärt und mit Alternativen versehen
+- Der Updatefeed wird als GitHub-Release-Datei ausgeliefert und umgeht den gedrosselten Raw-Endpunkt
 
 Vollständige Hinweise: [changelogs/1.4.1.md](changelogs/1.4.1.md)
 

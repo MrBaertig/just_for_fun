@@ -13,6 +13,7 @@ Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefas
 - Homebrew-Downloads bei vorübergehenden Netzwerkfehlern automatisch wiederholen
 - Bei HTTP 429 einen privaten Hotspot und den offiziellen Homebrew-PKG-Installer als Alternativen nennen
 - MarkItDown-Aktualisierung und Reparatur ebenfalls mit Python 3.13 ausführen
+- Updatefeed als GitHub-Release-Datei ausliefern, um HTTP-429-Fehler des Raw-Endpunkts zu vermeiden
 
 Vollständige Hinweise: [changelogs/1.4.1.md](changelogs/1.4.1.md)
 
