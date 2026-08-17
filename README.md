@@ -2,21 +2,22 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.5.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.5.0)
+Aktuelle Version: **1.6.0** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.0)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.5.0
+## Neu in Version 1.6.0
 
-- Kopfzeile für jedes Tabellenblatt individuell auswählen
-- Zeilennummer und erkannte Zellinhalte direkt im Auswahlmenü sehen
-- Spaltennamen und Beispielwerte beim Wechsel sofort aktualisieren
-- Zeilen oberhalb der Kopfzeile nur in der temporären Arbeitskopie entfernen
-- Kopfzeilenauswahl mit Anonymisieren, Löschen und Tabellenblattauswahl kombinieren
-- Durch Formatierungen aufgeblähte Excel-Bereiche erheblich schneller einlesen
-- Große Analyseergebnisse ohne blockierenden Pipe-Puffer verarbeiten
+- Ersteinrichtung prüft zuerst vollständig und installiert nur, was fehlt
+- Bei bereits vollständiger Installation nach etwa einer Sekunde beendet
+- Benötigte Pakete werden aus den Paketdaten von MarkItDown selbst ermittelt
+- Jeder Schritt wird als vorhanden, installiert, repariert oder übersprungen ausgewiesen
+- Prüfung läuft in der App, ein Terminalfenster öffnet sich nur für echte Installationen
+- Automatische Prüfung beim Programmstart und beim Zurückwechseln zur App
+- Bei unvollständiger Installation zeigen Hervorhebung, Abdunkelung und ein Pfeil auf die Ersteinrichtung
+- Startkacheln bleiben gesperrt, solange die Einrichtung unvollständig ist
 
-Vollständige Hinweise: [changelogs/1.5.0.md](changelogs/1.5.0.md)
+Vollständige Hinweise: [changelogs/1.6.0.md](changelogs/1.6.0.md)
 
 ## Versionshistorie
 

@@ -2,6 +2,30 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.6.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.0) – 17. August 2026
+
+### Ersteinrichtung prüft zuerst und installiert nur Fehlendes
+
+- Vollständiger Vorabcheck von Homebrew, Python 3.13, Git, Quellordner, Python-Umgebung, Paketen und MarkItDown-Befehl
+- Installation ausschließlich für Fehlendes oder Unpassendes, bei vollständiger Einrichtung nach etwa einer Sekunde beendet
+- Benötigte Pakete aus den Paketdaten von MarkItDown selbst ermitteln, damit die Liste nicht veraltet
+- Jeden Schritt als vorhanden, installiert, repariert oder übersprungen ausweisen
+- Aktualisieren und Reparieren bleiben den Wartungsbuttons vorbehalten
+- Homebrew aktualisiert bei der Einrichtung nicht mehr die gesamte Formelsammlung
+
+### Prüfung ohne Terminalfenster
+
+- Prüfung läuft direkt in der App, Terminalfenster nur noch für tatsächliche Installationen
+- Automatische Prüfung beim Programmstart und beim Zurückwechseln zur App
+- Rückfrage vor der Installation benennt die fehlenden Bestandteile einzeln
+- Nach der Einrichtung meldet das Fenster, wie viel ergänzt und wie viel bereits vorhanden war
+
+### Deutlicher Hinweis bei unvollständiger Installation
+
+- Ersteinrichtungs-Button orange hervorheben und kurz pulsieren lassen
+- Fenster abdunkeln und mit beschriftetem Pfeil auf den Button zeigen
+- Startkacheln sperren, solange die Einrichtung unvollständig ist
+
 ## [1.5.0](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.5.0) – 17. August 2026
 
 ### Kopfzeile je Tabellenblatt auswählen
