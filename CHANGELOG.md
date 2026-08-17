@@ -2,6 +2,31 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.6.2](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.2) – 17. August 2026
+
+### Vorschau und Validierungsbericht für Markdown nach Excel
+
+- Erkannte Tabellen mit Blattname, Zeilen- und Spaltenzahl vor dem Speichern anzeigen
+- Künftigen Datentyp je Spalte ausweisen
+- Blattnamen in der Vorschau ändern und einzelne Tabellen abwählen
+- Zeilen mit zu wenigen oder zu vielen Spalten melden
+- Gemischte Spaltenwerte, gekürzte Blattnamen, leere Überschriften und leere Tabellen melden
+
+### Frei skalierbare Fenster
+
+- Hauptfenster, Einstellungen, Excel-Vorbereitung und Vorschau vergrößerbar
+- Kacheln wachsen mit dem Fenster, Mindestgrößen verhindern zerdrückte Ansichten
+- Größe und Position von Hauptfenster, Einstellungen und Hilfe bleiben erhalten
+
+### Tastatur, VoiceOver und Hilfe
+
+- Befehl-1 bis Befehl-3 für die drei Konvertierungswege, Befehl-R für die Installationsprüfung
+- Neue Menüs für Ablage, Fenster und Hilfe
+- Sinnvolle Fokusreihenfolge über die Kacheln zur Ersteinrichtung
+- Eindeutige Beschriftungen für die drei gleichnamigen Auswahlknöpfe
+- Gesperrte Knöpfe nennen den Grund
+- Integrierte Hilfe mit Schnellstart, Ersteinrichtung, Konvertierung, Datenschutz, Updates und Fehlerhilfe
+
 ## [1.6.1](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.1) – 17. August 2026
 
 ### Verständlichere Fehlermeldungen

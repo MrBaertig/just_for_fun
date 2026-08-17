@@ -2,18 +2,21 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.6.1** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.1)
+Aktuelle Version: **1.6.2** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.2)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.6.1
+## Neu in Version 1.6.2
 
-- Fehlerdialoge zeigen die letzten Protokollzeilen und öffnen das Protokoll auf Knopfdruck
-- Beschädigte, fehlende oder gesperrte Dateien werden verständlich gemeldet
-- Der Hinweis auf die Ersteinrichtung nennt konkret, welche Bestandteile fehlen
-- Text und Pfeil stehen kompakt über dem Knopf, statt über die Startkacheln zu verlaufen
+- Vorschau vor dem Excel-Export mit Blattnamen, Spaltentypen und Zeilenzahl
+- Validierungsbericht meldet ungleiche Zeilenlängen, gemischte Spalten und gekürzte Blattnamen
+- Einzelne Tabellen abwählen und Blattnamen vor dem Speichern ändern
+- Alle Fenster frei skalierbar, Größe und Position bleiben erhalten
+- Tastaturbefehle für die drei Konvertierungswege, neue Menüs für Ablage, Fenster und Hilfe
+- Integrierte Hilfe im Hilfemenü
+- Aussagekräftige Beschriftungen für VoiceOver
 
-Vollständige Hinweise: [changelogs/1.6.1.md](changelogs/1.6.1.md)
+Vollständige Hinweise: [changelogs/1.6.2.md](changelogs/1.6.2.md)
 
 ## Versionshistorie
 
