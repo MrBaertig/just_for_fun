@@ -2,6 +2,26 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.6.3](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.3) – 18. August 2026
+
+### Führende Nullen bleiben vollständig erhalten
+
+- Spaltentyp einmal für die ganze Spalte bestimmen statt für jede Zelle einzeln
+- Spalten mit führenden Nullen vollständig als Text mit Excel-Textformat speichern
+- Postleitzahlen und Personalnummern landen nicht mehr teils als Zahl und teils als Text in derselben Spalte
+- Vorschau meldet solche Spalten als „enthält führende Nullen“ statt als gemischte Werte
+- Hinweis auf gemischte Spalten beschreibt genauer, was tatsächlich gespeichert wird
+
+### Designs für die Excel-Datei
+
+- Fünf Designs unter Einstellungen → Konvertierung: Gestreift, Schlicht, Dunkel, Geschäftlich und Ohne Formatierung
+- Gestreift bleibt das Standarddesign, ein unbekanntes Design fällt darauf zurück
+- Filter, fixierte Kopfzeile und Spaltenbreiten sind in jedem Design gleich
+
+### Tests
+
+- Testsuite von 24 auf 30 Prüfungen erweitert
+
 ## [1.6.2](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.2) – 17. August 2026
 
 ### Vorschau und Validierungsbericht für Markdown nach Excel

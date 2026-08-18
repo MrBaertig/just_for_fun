@@ -3,6 +3,45 @@
     <channel>
         <title>MarkItDown Drop</title>
         <item>
+            <title>1.6.3</title>
+            <pubDate>Tue, 18 Aug 2026 07:50:08 +0200</pubDate>
+            <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.3</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# MarkItDown Drop 1.6.3
+
+## Führende Nullen bleiben vollständig erhalten
+
+Der Spaltentyp wird jetzt einmal für die ganze Spalte bestimmt statt für jede Zelle einzeln.
+
+- Enthält eine Spalte führende Nullen, wird sie vollständig als Text gespeichert
+- Betroffene Zellen erhalten zusätzlich das Excel-Textformat, damit Excel die Nullen nicht beim Bearbeiten entfernt
+- Bisher landete eine Postleitzahlenspalte teils als Text und teils als Zahl in derselben Spalte; Sortieren und Filtern führten dadurch zu falschen Ergebnissen
+- Spalten ohne führende Nullen bleiben unverändert Zahlen-, Datums- oder Textspalten
+- Die Vorschau meldet solche Spalten jetzt als „enthält führende Nullen“ statt als gemischte Werte
+- Der Hinweis auf gemischte Spalten beschreibt genauer, was tatsächlich gespeichert wird
+
+## Designs für die Excel-Datei
+
+Unter **Einstellungen → Konvertierung** lässt sich das Aussehen der erzeugten Arbeitsmappe wählen:
+
+- **Gestreift:** das bisherige Aussehen mit grüner Kopfzeile, bleibt Standard
+- **Schlicht:** graue Kopfzeile, keine Streifen, sichtbares Gitternetz
+- **Dunkel:** dunkle Flächen mit heller Schrift
+- **Geschäftlich:** dunkelblaue Kopfzeile, blaue Streifen und dünne Rahmen
+- **Ohne Formatierung:** reine Werte ohne Farben und Auszeichnung
+
+Filter, fixierte Kopfzeile und Spaltenbreiten sind in jedem Design gleich, damit eine Datei unabhängig vom Design gleich zu bedienen bleibt. Ein unbekanntes Design fällt auf „Gestreift“ zurück.
+
+## Tests
+
+- Die Testsuite umfasst jetzt 30 statt 24 Prüfungen
+- Neu geprüft werden die spaltenweise Textentscheidung samt Excel-Textformat, der korrigierte Vorschauhinweis, alle fünf Designs sowie der Rückfall auf das Standarddesign
+]]></description>
+            <enclosure url="https://github.com/MrBaertig/just_for_fun/releases/download/v1.6.3/MarkItDown-Drop-1.6.3.zip" length="1775045" type="application/octet-stream" sparkle:edSignature="VFuBMZzPZarRLwbd9oWbsI7KS9azwHBB/BMpB58KUlDSE7MgFpPbr+5LTbj6RrwJG0aqw2Tx5+v0nGHmRU3cDw=="/>
+        </item>
+        <item>
             <title>1.6.2</title>
             <pubDate>Mon, 17 Aug 2026 22:40:52 +0200</pubDate>
             <link>https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.2</link>
