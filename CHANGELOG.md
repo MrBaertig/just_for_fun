@@ -2,6 +2,20 @@
 
 Hier sind alle bisher dokumentierten Versionen von MarkItDown Drop zusammengefasst. Die neueste Version steht oben.
 
+## [1.6.4](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.4) – 18. August 2026
+
+### Vorschau der Excel-Designs in den Einstellungen
+
+- Kleine Tabelle zeigt Kopfzeile, Streifen, Rahmen und Gitternetz des gewählten Designs
+- Wechselt beim Umschalten sofort mit
+- Beispieldaten mit führenden Nullen machen die Textspalten gleich mit sichtbar
+- Gezeichnet statt als Bilddatei mitgeliefert: scharf auf jedem Bildschirm, ohne die App zu vergrößern
+
+### Tests
+
+- Testsuite von 30 auf 31 Prüfungen erweitert
+- Neu geprüft wird, dass die Designfarben in App und Python-Werkzeug übereinstimmen
+
 ## [1.6.3](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.3) – 18. August 2026
 
 ### Führende Nullen bleiben vollständig erhalten

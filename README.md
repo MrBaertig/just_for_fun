@@ -2,18 +2,17 @@
 
 Öffentliche Downloads und Updatefeed für **MarkItDown Drop**.
 
-Aktuelle Version: **1.6.3** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.3)
+Aktuelle Version: **1.6.4** – [Release und Download](https://github.com/MrBaertig/just_for_fun/releases/tag/v1.6.4)
 
 Der Quellcode der App ist nicht Bestandteil dieses Repositorys. Hier werden ausschließlich fertige Versionen, Versionshinweise und der von Sparkle verwendete Updatefeed veröffentlicht.
 
-## Neu in Version 1.6.3
+## Neu in Version 1.6.4
 
-- Führende Nullen bleiben vollständig erhalten: Der Spaltentyp wird für die ganze Spalte statt für jede Zelle bestimmt
-- Spalten mit führenden Nullen werden komplett als Text mit Excel-Textformat gespeichert
-- Fünf Designs für die erzeugte Excel-Datei unter Einstellungen → Konvertierung
-- Genauere Hinweise in der Vorschau
+- Vorschau der Excel-Designs in den Einstellungen: eine kleine Tabelle zeigt das gewählte Design und wechselt sofort mit
+- Die Vorschau wird gezeichnet statt als Bilddatei mitgeliefert und bleibt dadurch auf jedem Bildschirm scharf
+- Eine Prüfung hält die Farben von Vorschau und Export deckungsgleich
 
-Vollständige Hinweise: [changelogs/1.6.3.md](changelogs/1.6.3.md)
+Vollständige Hinweise: [changelogs/1.6.4.md](changelogs/1.6.4.md)
 
 ## Versionshistorie
 
